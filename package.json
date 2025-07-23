@@ -1,0 +1,18 @@
+{
+  "name": "oroswap-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "swaporo.js",
+  "scripts": {
+    "start": "node swaporo.js"
+  },
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.31.1",
+    "@cosmjs/proto-signing": "^0.31.1",
+    "@cosmjs/stargate": "^0.31.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.6.0",
+    "gradient-string": "^2.0.1"
+  }
+}
