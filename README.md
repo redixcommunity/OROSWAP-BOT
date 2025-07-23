@@ -6,7 +6,7 @@ Bot otomatis untuk swap token di jaringan testnet ZigChain.
 
 1. Clone repo ini:
    ```
-   git clone https://github.com/zeesy04/OCTRA-AUTO-SWAP.git
+   git clone https://github.com/redixcommunity/OROSWAP-BOT.git
    cd OROSWAP-BOT
    ```
 
