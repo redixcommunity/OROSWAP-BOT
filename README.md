@@ -29,7 +29,7 @@ Bot otomatis untuk swap token di jaringan testnet ZigChain.
 
 ## ⚠️ Peringatan
 
-- Hanya untuk testnet.
+- Gunakan wallet untuk testnet.
 - Jangan gunakan mnemonic wallet utama.
 
 ## 👤 Credit
